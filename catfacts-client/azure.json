@@ -1,0 +1,17 @@
+{
+  "hosting": [
+    {
+      "app": {
+        "project": "catfacts-client",
+        "target": "build",
+        "configuration": "production",
+        "path": "dist/catfacts-client"
+      },
+      "azureHosting": {
+        "subscription": "6c140a2a-c627-4756-85b1-ca26dba4c07c",
+        "resourceGroupName": "catfacts",
+        "account": "catfacts1604"
+      }
+    }
+  ]
+}
